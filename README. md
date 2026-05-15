@@ -1,0 +1,46 @@
+# Dragon Ball API Web Application
+
+## Descripción
+
+Aplicación web desarrollada con Python y Flask que consume la API REST de Dragon Ball para mostrar personajes de la serie.
+
+La aplicación permite visualizar:
+
+- Imagen del personaje
+- Nombre
+- KI
+- Descripción
+
+Además, implementa paginación de 10 personajes por página utilizando los parámetros proporcionados por la API oficial.
+
+---
+
+## Tecnologías utilizadas
+
+- Python 3
+- Flask
+- Requests
+- HTML5
+- CSS3
+- Bootstrap 5
+- Git y GitHub
+
+---
+
+## Funcionalidades
+
+- Consumo de API REST
+- Renderizado dinámico de personajes
+- Paginación funcional
+- Diseño responsive
+- Interfaz temática de Dragon Ball
+- Efectos hover en tarjetas
+
+---
+
+## Instalación y ejecución
+
+### 1. Clonar repositorio
+
+```bash
+git clone URL_DEL_REPOSITORIO

@@ -44,3 +44,15 @@ Además, implementa paginación de 10 personajes por página utilizando los par�
 
 ```bash
 git clone URL_DEL_REPOSITORIO
+
+## API utilizada
+
+Dragon Ball API:
+
+https://dragonball-api.com/
+
+---
+
+## Autor
+
+Michel Amir Madrigal Torres
